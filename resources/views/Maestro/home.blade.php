@@ -1,5 +1,4 @@
 @extends('layouts.app')
-
 <style>
   .btn-circle.btn-xl {
         background-image:url('img/lapiz.png');
@@ -67,7 +66,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-6">
-                                <button type="button" class="btn btn-success btn-circle btn-xl"><i class="fa fa-list"></i>
+                                <button type="button" class="btn btn-success btn-circle btn-xl" disabled><i class="fa fa-list"></i>
                                     
                                 </button>
                             </div>
